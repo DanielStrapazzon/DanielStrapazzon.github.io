@@ -24,22 +24,6 @@ Minha missão é ir além de reproduzir código — entender conceitos, arquitet
 
 ---
 
-## 🛠️ Stack Técnico
-
-**Linguagens**
-- Python · C / C++ · JavaScript · Shell / Bash · Assembly
-
-**Hardware & Embarcados**
-- Arduino · Raspberry Pi · ESP32 / ESP8266 · STM32
-
-**Protocolos**
-- MQTT · I2C · SPI · UART · Modbus
-
-**Software & DevOps**
-- APIs REST · Docker · Git · Linux
-
----
-
 ## 📺 Canal — Daniel Strapazzon | Dev
 
 Canal criado para mostrar tecnologia no mundo real. Conteúdo sobre:
@@ -57,7 +41,7 @@ Canal criado para mostrar tecnologia no mundo real. Conteúdo sobre:
 ## 🎓 Formação
 
 **Engenharia de Computação** — UNOESC  
-Universidade do Oeste de Santa Catarina · Chapecó, SC · 2023 → atual
+Universidade do Oeste de Santa Catarina · Chapecó, SC · 2022 → atual
 
 ---
 
@@ -71,7 +55,7 @@ Serra Alta / Chapecó — Santa Catarina, Brasil
 
 - Parcerias e patrocínios para o canal
 - Projetos de automação e IoT
-- Oportunidades de estágio em desenvolvimento / engenharia
+- Oportunidades em desenvolvimento / engenharia
 - Colaborações em projetos open source
 
 ---
